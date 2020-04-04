@@ -16,6 +16,8 @@ DESIGN : https://github.com/austincolepage/Software-Principles-Final-Project/tre
 
 MAIN : https://github.com/austincolepage/Software-Principles-Final-Project/tree/master/Main
 
-https://github.com/austincolepage/Software-Principles-Final-Project/tree/master/Requirements
+REQUIREMENTS : https://github.com/austincolepage/Software-Principles-Final-Project/tree/master/Requirements
 
-https://github.com/austincolepage/Software-Principles-Final-Project/tree/master/Test%20Cases
+TEST CASES : https://github.com/austincolepage/Software-Principles-Final-Project/tree/master/Test%20Cases
+
+USE CASES : https://github.com/austincolepage/Software-Principles-Final-Project/tree/master/Use%20Cases
