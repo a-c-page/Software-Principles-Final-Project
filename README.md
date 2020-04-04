@@ -1,6 +1,6 @@
-# Software-Principles-Final-Project
+# Project Description
 
-Project Description
+
 
 We set out to make a Rummy-O game that is easy and fun for users to play. We achieved our goal by delivering a platform that is simple, yet effective.
 
