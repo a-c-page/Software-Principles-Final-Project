@@ -9,4 +9,6 @@ When users enter our website, they have the choice to either login (if they are 
 We created our website using Python, JavaScript and CSS. Using these three languages in tandem with each other allows use to provide our users with a program that is stylish and with great functionality. 
 
 TABLE OF CONTENTS
+CODE : https://github.com/austincolepage/Software-Principles-Final-Project/tree/master/Code
+
 https://github.com/austincolepage/Software-Principles-Final-Project/tree/master/Requirements
