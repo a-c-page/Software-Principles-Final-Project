@@ -12,4 +12,6 @@ TABLE OF CONTENTS
 
 CODE : https://github.com/austincolepage/Software-Principles-Final-Project/tree/master/Code
 
+DESIGN : https://github.com/austincolepage/Software-Principles-Final-Project/tree/master/Design
+
 https://github.com/austincolepage/Software-Principles-Final-Project/tree/master/Requirements
